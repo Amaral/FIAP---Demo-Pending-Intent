@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WaterRemember</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_wake_up">WakeUpActivity</string>
+    <string name="label_agua">Beba água</string>
+</resources>
